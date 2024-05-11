@@ -1,0 +1,11 @@
+[t10]
+FileName1=t10.html
+URL1=https://optimizationguide-pa.googleapis.com/v1:GetModels?key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw
+Total=1
+RequestHeaderFile=t10_RequestHeader.txt
+RequestBodyFile=t10_RequestBody.txt
+ResponseHeaderFile=t10_ResponseHeader.txt
+ContentType=application/x-protobuf
+SnapshotXmlFile=snapshot_10.xml
+[ProtocolInfo]
+ProtocolId=QTWeb

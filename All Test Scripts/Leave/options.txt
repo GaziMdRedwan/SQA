@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-IC:\Users\Joy\Documents\VuGen\Scripts\Leave
+-IC:\Program Files (x86)\OpenText\LoadRunner\include
+-ec:\users\joy\documents\vugen\scripts\leave\\logfile.log
+c:\users\joy\documents\vugen\scripts\leave\\combined_Leave.c
+c:\users\joy\documents\vugen\scripts\leave\\pre_cci.c

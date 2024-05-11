@@ -1,0 +1,6 @@
+{
+  "issueAdvice": "auto",
+  "token": "ya29.a0AXooCgsxZAsN_Ok-YNNHFFG5TRPY0oXAdE0JZr5YjeJLnkwadG2XsLd8Eu_tDlf3a07Jq8ZU9rynJV9pWU052Aur4lUtmwXxl-VTwT0FgNCnwmRA7b8HOeuaiLIV-U3RK4BApL8H7t8zqSgAH8hstB6FWx9ECE6NUp_qHSv-61XixgTl3MUm5amm4X4fw9z0ZbHzchW9CAbI-8xQfxIfFvp1hLp7yVVRS1GCKvZ5kvrtYbtarMcu7sDYKdxZJml9lwCQ24P-K8TshGD4LkCJ0FZDjIZV1jOg8snCbhQ8pTY4jOHFy2iAkrcbECdRZEX8aGYLhgaCgYKAbESARISFQHGX2Mi8Q0TmJ2rS6wqpxwfT3SZgg0333",
+  "expiresIn": "3599",
+  "grantedScopes": "https://www.googleapis.com/auth/memento https://www.googleapis.com/auth/client_channel https://www.googleapis.com/auth/cclog"
+}

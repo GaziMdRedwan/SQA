@@ -1,0 +1,502 @@
+{
+  "FilterHeaders": [
+    {
+      "Header": "x-goog-update-updater",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "x-goog-update-interactivity",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "x-goog-update-appid",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "x-goog-encode-response-if-executable",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "x-goog-api-key",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "x-client-data",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "x-chrome-uma-reportinginfo",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "x-chrome-uma-log-sha1",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "x-chrome-uma-log-hmac-sha256",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "user-agent",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "sec-fetch-site",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "sec-fetch-mode",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "sec-fetch-dest",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "sec-ch-ua-platform",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "sec-ch-ua-mobile",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "sec-ch-ua",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "pragma",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "origin",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "if-none-match",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "if-modified-since",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "dnt",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "content-encoding",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "cache-control",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "authorization",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "accept-language",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "accept-encoding",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "accept",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "a-im",
+      "IncludeInScript": false
+    }
+  ],
+  "FilterResources": [
+    {
+      "IsNonResource": true,
+      "type": "text/xml"
+    },
+    {
+      "IsNonResource": false,
+      "type": "text/plain"
+    },
+    {
+      "IsNonResource": false,
+      "type": "application/x-protobuf"
+    },
+    {
+      "IsNonResource": false,
+      "type": "application/vnd.google.octet-stream-compressible"
+    },
+    {
+      "IsNonResource": true,
+      "type": "application/json"
+    }
+  ],
+  "GeneralInfo": {
+    "BrowserVersion": "",
+    "IsWinInetMode": false,
+    "MaxUsedConnections": 20,
+    "RecordedBrowser": "Chrome",
+    "RecordingDate": "May-07-2024",
+    "RecordingDuration": 58187,
+    "RecordingMode": "N/A",
+    "RecordingTimeStamp": 1715082155,
+    "RecordingType": "Proxy",
+    "TotalBytesReceived": 35513,
+    "TotalBytesSent": 207671,
+    "TotalRequests": 20,
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+  },
+  "HostInfo": [
+    {
+      "DomainName": "googleapis.com",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "142.250.195.138",
+          "IncludeInScript": true,
+          "Name": "www.googleapis.com",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/json",
+              "DownloadTime": 0,
+              "EventId": 41,
+              "HttpStatus": 200,
+              "Size": 455,
+              "URL": "https://www.googleapis.com/oauth2/v4/token"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/json",
+              "DownloadTime": 0,
+              "EventId": 35,
+              "HttpStatus": 200,
+              "Size": 1313,
+              "URL": "https://www.googleapis.com/oauth2/v4/token"
+            }
+          ],
+          "SSLCipher": "",
+          "SSLVersion": "TLS1.2"
+        },
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "142.250.196.163",
+          "IncludeInScript": true,
+          "Name": "update.googleapis.com",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/json",
+              "DownloadTime": 0,
+              "EventId": 278,
+              "HttpStatus": 200,
+              "Size": 3687,
+              "URL": "https://update.googleapis.com/service/update2/json?cup2key=14:NYEPktOjVI76Zh8BbIMb-qo1YhLUXy8gjwX-KpimcV4&cup2hreq=9738f21dae3dd1a28ada647fe432b46a94e39dcc9241d5f34cadbb276b3065af"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/json",
+              "DownloadTime": 0,
+              "EventId": 48,
+              "HttpStatus": 200,
+              "Size": 3167,
+              "URL": "https://update.googleapis.com/service/update2/json?cup2key=14:KJLub0J3Iy_h3BZzBTh-BIMB4pGPapmXWxAesOjqP2E&cup2hreq=55460f6b083a88e280238991a1ef842f916d2c0cac601bc09af9b77d52d4541a"
+            }
+          ],
+          "SSLCipher": "",
+          "SSLVersion": ""
+        },
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "142.250.182.42",
+          "IncludeInScript": true,
+          "Name": "optimizationguide-pa.googleapis.com",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/x-protobuf",
+              "DownloadTime": 0,
+              "EventId": 155,
+              "HttpStatus": 200,
+              "Size": 7881,
+              "URL": "https://optimizationguide-pa.googleapis.com/v1:GetModels?key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw"
+            }
+          ],
+          "SSLCipher": "",
+          "SSLVersion": "TLS1.2"
+        },
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "142.250.195.170",
+          "IncludeInScript": true,
+          "Name": "oauthaccountmanager.googleapis.com",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/json",
+              "DownloadTime": 0,
+              "EventId": 139,
+              "HttpStatus": 200,
+              "Size": 593,
+              "URL": "https://oauthaccountmanager.googleapis.com/v1/issuetoken"
+            }
+          ],
+          "SSLCipher": "",
+          "SSLVersion": "TLS1.2"
+        },
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "142.250.195.42",
+          "IncludeInScript": true,
+          "Name": "content-autofill.googleapis.com",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "gzip",
+              "DataType": "text/plain",
+              "DownloadTime": 0,
+              "EventId": 234,
+              "HttpStatus": 200,
+              "Size": 68,
+              "URL": "https://content-autofill.googleapis.com/v1/pages/ChRDaHJvbWUvMTI1LjAuNjQyMi4yNhIuCahJccAtAjXtEgUNkWGVThIFDZFhlU4SBQ2RYZVOEgUNkWGVTiF48GgYy3xFFxIZCcmLdcaTM2VsEgUNkWGVTiEJo-TiF-js3Q==?alt=proto"
+            }
+          ],
+          "SSLCipher": "",
+          "SSLVersion": "TLS1.2"
+        },
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "142.250.182.67",
+          "IncludeInScript": true,
+          "Name": "clientservices.googleapis.com",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "gzip",
+              "DataType": "text/plain",
+              "DownloadTime": 0,
+              "EventId": 256,
+              "HttpStatus": 200,
+              "Size": 2,
+              "URL": "https://clientservices.googleapis.com/uma/v2"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "",
+              "DownloadTime": 0,
+              "EventId": 3,
+              "HttpStatus": 304,
+              "Size": 0,
+              "URL": "https://clientservices.googleapis.com/chrome-variations/seed?osname=win&channel=beta&milestone=125"
+            }
+          ],
+          "SSLCipher": "",
+          "SSLVersion": "2&3"
+        }
+      ],
+      "IncludeInScript": true
+    },
+    {
+      "DomainName": "google.com",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "142.250.77.110",
+          "IncludeInScript": true,
+          "Name": "clients4.google.com",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "gzip",
+              "DataType": "text/plain",
+              "DownloadTime": 0,
+              "EventId": 265,
+              "HttpStatus": 200,
+              "Size": 2,
+              "URL": "https://clients4.google.com/ukm"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/vnd.google.octet-stream-compressible",
+              "DownloadTime": 0,
+              "EventId": 249,
+              "HttpStatus": 200,
+              "Size": 828,
+              "URL": "https://clients4.google.com/chrome-sync/command/?client=Google+Chrome&client_id=GWs9AqL0LfltgSszeu153Q%3D%3D"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/vnd.google.octet-stream-compressible",
+              "DownloadTime": 16,
+              "EventId": 239,
+              "HttpStatus": 200,
+              "Size": 712,
+              "URL": "https://clients4.google.com/chrome-sync/command/?client=Google+Chrome&client_id=GWs9AqL0LfltgSszeu153Q%3D%3D"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/vnd.google.octet-stream-compressible",
+              "DownloadTime": 0,
+              "EventId": 205,
+              "HttpStatus": 200,
+              "Size": 6062,
+              "URL": "https://clients4.google.com/chrome-sync/command/?client=Google+Chrome&client_id=GWs9AqL0LfltgSszeu153Q%3D%3D"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/vnd.google.octet-stream-compressible",
+              "DownloadTime": 0,
+              "EventId": 178,
+              "HttpStatus": 200,
+              "Size": 976,
+              "URL": "https://clients4.google.com/chrome-sync/command/?client=Google+Chrome&client_id=GWs9AqL0LfltgSszeu153Q%3D%3D"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/vnd.google.octet-stream-compressible",
+              "DownloadTime": 0,
+              "EventId": 158,
+              "HttpStatus": 200,
+              "Size": 7387,
+              "URL": "https://clients4.google.com/chrome-sync/command/?client=Google+Chrome&client_id=GWs9AqL0LfltgSszeu153Q%3D%3D"
+            }
+          ],
+          "SSLCipher": "",
+          "SSLVersion": ""
+        },
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "142.250.193.142",
+          "IncludeInScript": true,
+          "Name": "clients2.google.com",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "gzip",
+              "DataType": "text/xml",
+              "DownloadTime": 0,
+              "EventId": 88,
+              "HttpStatus": 200,
+              "Size": 597,
+              "URL": "https://clients2.google.com/service/update2/crx?os=win&arch=x64&os_arch=x86_64&nacl_arch=x86-64&prod=chromecrx&prodchannel=beta&prodversion=125.0.6422.26&lang=en-US&acceptformat=crx3,puff&x=id%3Daieoplapobidheellikiicjfpamacpfd%26v%3D0.0.0.0%26installedby%3Dinternal%26uc&x=id%3Dgfenjblodoldnbiddmggcbkcapiolbig%26v%3D0.0.0.0%26installedby%3Dinternal%26uc%26ping%3Dr%253D14%2526e%253D1&x=id%3Dhflefjhkfeiaignkclmphmokmmbhbhik%26v%3D0.0.0.0%26installedby%3Dinternal%26uc%26ping%3Dr%253D14%2526e%253D1"
+            }
+          ],
+          "SSLCipher": "",
+          "SSLVersion": "TLS1.2"
+        },
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "142.251.10.84",
+          "IncludeInScript": true,
+          "Name": "accounts.google.com",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/json",
+              "DownloadTime": 0,
+              "EventId": 16,
+              "HttpStatus": 200,
+              "Size": 1766,
+              "URL": "https://accounts.google.com/ListAccounts?gpsia=1&source=ChromiumBrowser&json=standard"
+            }
+          ],
+          "SSLCipher": "",
+          "SSLVersion": "TLS1.2"
+        }
+      ],
+      "IncludeInScript": true
+    },
+    {
+      "DomainName": "google-analytics.com",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "172.217.31.206",
+          "IncludeInScript": true,
+          "Name": "www.google-analytics.com",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "",
+              "DataType": "text/plain",
+              "DownloadTime": 0,
+              "EventId": 7,
+              "HttpStatus": 200,
+              "Size": 16,
+              "URL": "https://www.google-analytics.com/j/collect?v=1&_v=j101&a=1404183624&t=pageview&_s=1&dl=chrome-extension%3A%2F%2Fllbdoljkknpjgfcnbnoiehjcgancpjmd%2F_generated_background_page.html&dp=%2Fbackground&ul=en-us&de=UTF-8&sd=24-bit&sr=1536x864&vp=&je=0&_u=QACAAEABAAAAACAEI~&jid=795540259&gjid=1670636606&cid=830389759.1694837545&tid=UA-169009641-3&_gid=1307316543.1704256953&_r=1&_slc=1&z=645597186"
+            }
+          ],
+          "SSLCipher": "",
+          "SSLVersion": "TLS1.2"
+        }
+      ],
+      "IncludeInScript": true
+    },
+    {
+      "DomainName": "doubleclick.net",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "142.251.10.157",
+          "IncludeInScript": true,
+          "Name": "stats.g.doubleclick.net",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "",
+              "DataType": "text/plain",
+              "DownloadTime": 15,
+              "EventId": 134,
+              "HttpStatus": 200,
+              "Size": 1,
+              "URL": "https://stats.g.doubleclick.net/j/collect?t=dc&aip=1&_r=3&v=1&_v=j101&tid=UA-169009641-3&cid=830389759.1694837545&jid=795540259&gjid=1670636606&_gid=1307316543.1704256953&_u=QACAAEAAAAAAACAEI~&z=2099754595"
+            }
+          ],
+          "SSLCipher": "",
+          "SSLVersion": "TLS1.2"
+        }
+      ],
+      "IncludeInScript": true
+    },
+    {
+      "DomainName": "darkreader.org",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "185.199.111.153",
+          "IncludeInScript": true,
+          "Name": "darkreader.org",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "",
+              "DataType": "",
+              "DownloadTime": 0,
+              "EventId": 12,
+              "HttpStatus": 304,
+              "Size": 0,
+              "URL": "https://darkreader.org/blog/posts.json"
+            }
+          ],
+          "SSLCipher": "",
+          "SSLVersion": "2&3"
+        }
+      ],
+      "IncludeInScript": true
+    }
+  ],
+  "WebSocket": {
+    "IncludeInScript": false,
+    "IsScriptIncludeWebSocket": false
+  },
+  "NumberOfCorrelations": 0
+}

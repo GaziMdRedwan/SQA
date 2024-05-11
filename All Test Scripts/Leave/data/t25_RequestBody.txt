@@ -1,0 +1,5 @@
+"force=false&response_type=token&scope=https://www.googleapis.com/auth/cclog+https://www.google"
+"apis.com/auth/client_channel+https://www.googleapis.com/auth/memento&enable_granular_permissio"
+"ns=false&client_id=192748556389-k5lj2ak6j74mo13ulslbkqkrd8d6b1bh.apps.googleusercontent.com&li"
+"b_ver=125.0.6422.26&release_channel=beta&origin=lpcaedmchfhocbbapmcbpinfpgnhiddi&device_id=8e1"
+"fb12f-cc76-4a0d-baaa-bdc9af0979ac&device_type=chrome"

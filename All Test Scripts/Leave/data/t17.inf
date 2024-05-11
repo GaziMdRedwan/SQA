@@ -1,0 +1,6 @@
+[t17]
+FileName1=t17_seed.html
+URL1=https://clientservices.googleapis.com/chrome-variations/seed?osname=win&channel=beta&milestone=125
+Total=1
+ContentType=
+SnapshotXmlFile=snapshot_17.xml

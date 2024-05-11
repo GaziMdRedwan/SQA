@@ -1,0 +1,11 @@
+[t22]
+FileName1=t22_crx.xml
+URL1=https://clients2.google.com/service/update2/crx?os=win&arch=x64&os_arch=x86_64&nacl_arch=x86-64&prod=chromecrx&prodchannel=beta&prodversion=125.0.6422.26&lang=en-US&acceptformat=crx3,puff&x=id%3Daieoplapobidheellikiicjfpamacpfd%26v%3D0.0.0.0%26installedby%3Dinternal%26uc&x=id%3Dgfenjblodoldnbiddmggcbkcapiolbig%26v%3D0.0.0.0%26installedby%3Dinternal%26uc%26ping%3Dr%253D14%2526e%253D1&x=id%3Dhflefjhkfeiaignkclmphmokmmbhbhik%26v%3D0.0.0.0%26installedby%3Dinternal%26uc%26ping%3Dr%253D14%2526e%253D1
+Total=1
+ContentType=text/xml
+SnapshotXmlFile=snapshot_22.xml
+RequestHeaderFile=t22_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t22_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

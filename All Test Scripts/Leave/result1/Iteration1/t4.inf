@@ -1,0 +1,16 @@
+[t4]
+SnapshotXmlFile=snapshot_4.xml
+ContentType=application/json
+StepName=Custom Request: token_2
+Total=2
+FileName1=t4.json
+FileName2=t1_1_posts.json
+RequestHeaderFile=t4_RequestHeader.txt
+SaveSnapshotResources=1
+ResponseHeaderFile=t4_ResponseHeader.txt
+RawStepEndTime=1715081644321
+RawStepName=token_2
+RequestBodyFile=t4_RequestBody.txt
+RawStepStartTime=1715081644130
+URL1=https://www.googleapis.com/oauth2/v4/token
+URL2=https://darkreader.org/blog/posts.json

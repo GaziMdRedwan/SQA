@@ -1,0 +1,16 @@
+HTTP/1.1 200 OK
+Access-Control-Allow-Origin: chrome-extension://llbdoljkknpjgfcnbnoiehjcgancpjmd
+Strict-Transport-Security: max-age=10886400; includeSubDomains; preload
+Date: Tue, 07 May 2024 11:42:46 GMT
+Pragma: no-cache
+Expires: Fri, 01 Jan 1990 00:00:00 GMT
+Cache-Control: no-cache, no-store, must-revalidate
+Last-Modified: Sun, 17 May 1998 03:00:00 GMT
+Access-Control-Allow-Credentials: true
+X-Content-Type-Options: nosniff
+Content-Type: text/plain
+Cross-Origin-Resource-Policy: cross-origin
+Server: Golfe2
+Content-Length: 1
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+

@@ -1,0 +1,18 @@
+POST https://www.google-analytics.com/j/collect?v=1&_v=j101&a=1764978226&t=pageview&_s=1&dl=chrome-extension%3A%2F%2Fllbdoljkknpjgfcnbnoiehjcgancpjmd%2F_generated_background_page.html&dp=%2Fbackground&ul=en-us&de=UTF-8&sd=24-bit&sr=1536x864&vp=&je=0&_u=QACAAEABAAAAACAEI~&jid=973551092&gjid=1495181844&cid=830389759.1694837545&tid=UA-169009641-3&_gid=1307316543.1704256953&_r=1&_slc=1&z=653207630 HTTP/1.1
+sec-ch-ua: "Google Chrome";v="125", "Chromium";v="125", "Not.A/Brand";v="24"
+sec-ch-ua-platform: "Windows"
+DNT: 1
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+Content-Type: text/plain
+Accept: */*
+Origin: chrome-extension://llbdoljkknpjgfcnbnoiehjcgancpjmd
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Accept-Encoding: gzip, deflate, zstd
+Accept-Language: en-US,en;q=0.9,bn;q=0.8
+Host: www.google-analytics.com
+Content-Length: 0
+Connection: Keep-Alive
+

@@ -1,0 +1,11 @@
+[t8]
+FileName1=t8.txt
+URL1=https://stats.g.doubleclick.net/j/collect?t=dc&aip=1&_r=3&v=1&_v=j101&tid=UA-169009641-3&cid=830389759.1694837545&jid=795540259&gjid=1670636606&_gid=1307316543.1704256953&_u=QACAAEAAAAAAACAEI~&z=2099754595
+Total=1
+RequestHeaderFile=t8_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t8_ResponseHeader.txt
+ContentType=text/plain
+SnapshotXmlFile=snapshot_8.xml
+[ProtocolInfo]
+ProtocolId=QTWeb

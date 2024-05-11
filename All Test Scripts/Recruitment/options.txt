@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-IC:\Users\Joy\Documents\VuGen\Scripts\Recruitment
+-IC:\Program Files (x86)\OpenText\LoadRunner\include
+-ec:\users\joy\documents\vugen\scripts\recruitment\\logfile.log
+c:\users\joy\documents\vugen\scripts\recruitment\\combined_Recruitment.c
+c:\users\joy\documents\vugen\scripts\recruitment\\pre_cci.c

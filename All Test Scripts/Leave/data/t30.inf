@@ -1,0 +1,13 @@
+[t30]
+FileName1=t30.html
+URL1=https://clients4.google.com/chrome-sync/command/?client=Google+Chrome&client_id=GWs9AqL0LfltgSszeu153Q%3D%3D
+Total=2
+RequestHeaderFile=t30_RequestHeader.txt
+RequestBodyFile=t30_RequestBody.txt
+ResponseHeaderFile=t30_ResponseHeader.txt
+ContentType=application/vnd.google.octet-stream-compressible
+SnapshotXmlFile=snapshot_30.xml
+FileName2=t30_netcheck.gif
+URL2=https://ssl.gstatic.com/docs/common/netcheck.gif?zx=k9k0grdq4hc5
+[ProtocolInfo]
+ProtocolId=QTWeb

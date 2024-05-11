@@ -1,0 +1,16 @@
+[t5]
+SnapshotXmlFile=snapshot_5.xml
+ContentType=application/json
+StepName=Custom Request: json
+Total=2
+FileName1=t5.json
+FileName2=t1_1_posts.json
+RequestHeaderFile=t5_RequestHeader.txt
+SaveSnapshotResources=1
+ResponseHeaderFile=t5_ResponseHeader.txt
+RawStepEndTime=1715081644710
+RawStepName=json
+RequestBodyFile=t5_RequestBody.txt
+RawStepStartTime=1715081644323
+URL1=https://update.googleapis.com/service/update2/json?cup2key=14:4vkH8h8KqY8OeKnYJ-gVQ4aYeYhCyUJrgXWq_5Jbk5E&cup2hreq=ca0a613abce141051beb7811d467687d7e6ce510c33e0c6242bc4755dc96edba
+URL2=https://darkreader.org/blog/posts.json

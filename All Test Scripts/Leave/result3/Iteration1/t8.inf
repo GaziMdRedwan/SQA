@@ -1,0 +1,16 @@
+[t8]
+SnapshotXmlFile=snapshot_8.xml
+ContentType=text/html
+StepName=Custom Request: collect_2
+Total=2
+FileName1=t8.html
+FileName2=t1_1_posts.json
+RequestHeaderFile=t8_RequestHeader.txt
+SaveSnapshotResources=1
+ResponseHeaderFile=t8_ResponseHeader.txt
+RawStepEndTime=1715082046964
+RawStepName=collect_2
+RequestBodyFile=t8_RequestBody.txt
+RawStepStartTime=1715082046649
+URL1=https://stats.g.doubleclick.net/j/collect?t=dc&aip=1&_r=3&v=1&_v=j101&tid=UA-169009641-3&cid=830389759.1694837545&jid=973551092&gjid=1495181844&_gid=1307316543.1704256953&_u=QACAAEAAAAAAACAEI~&z=1529893232
+URL2=https://darkreader.org/blog/posts.json

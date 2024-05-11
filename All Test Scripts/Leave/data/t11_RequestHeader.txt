@@ -1,0 +1,20 @@
+POST https://stats.g.doubleclick.net/j/collect?t=dc&aip=1&_r=3&v=1&_v=j101&tid=UA-169009641-3&cid=830389759.1694837545&jid=307603770&gjid=326708202&_gid=1307316543.1704256953&_u=QACAAEAAAAAAACAEI~&z=2083223289 HTTP/1.1
+sec-ch-ua: "Google Chrome";v="125", "Chromium";v="125", "Not.A/Brand";v="24"
+sec-ch-ua-platform: "Windows"
+DNT: 1
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+Content-Type: text/plain
+Accept: */*
+Origin: chrome-extension://llbdoljkknpjgfcnbnoiehjcgancpjmd
+X-Client-Data: CJS2yQEIpbbJAQiqncoBCK3lygEIlKHLAQi5yM0BCND0zQEI/fTNAQi+gM4BCP+GzgEI5Y3OARior80B
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Accept-Encoding: gzip, deflate, zstd
+Accept-Language: en-US,en;q=0.9,bn;q=0.8
+Cookie: IDE=AHWqTUkmqF680NLEmaIjruAKeBUZP6zfamS2m3EfBqmYvC0E8mGaWqLSsGxmInmF
+Host: stats.g.doubleclick.net
+Content-Length: 0
+Connection: Keep-Alive
+

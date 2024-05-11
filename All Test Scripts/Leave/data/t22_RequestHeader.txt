@@ -1,0 +1,13 @@
+GET https://clients2.google.com/service/update2/crx?os=win&arch=x64&os_arch=x86_64&nacl_arch=x86-64&prod=chromecrx&prodchannel=beta&prodversion=125.0.6422.26&lang=en-US&acceptformat=crx3,puff&x=id%3Daieoplapobidheellikiicjfpamacpfd%26v%3D0.0.0.0%26installedby%3Dinternal%26uc&x=id%3Dgfenjblodoldnbiddmggcbkcapiolbig%26v%3D0.0.0.0%26installedby%3Dinternal%26uc%26ping%3Dr%253D14%2526e%253D1&x=id%3Dhflefjhkfeiaignkclmphmokmmbhbhik%26v%3D0.0.0.0%26installedby%3Dinternal%26uc%26ping%3Dr%253D14%2526e%253D1 HTTP/1.1
+X-Goog-Update-Interactivity: bg
+X-Goog-Update-AppId: aieoplapobidheellikiicjfpamacpfd,gfenjblodoldnbiddmggcbkcapiolbig,hflefjhkfeiaignkclmphmokmmbhbhik
+X-Goog-Update-Updater: chromecrx-125.0.6422.26
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: empty
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+Accept-Encoding: gzip, deflate, zstd
+Accept-Language: en-US,en;q=0.9,bn;q=0.8
+Host: clients2.google.com
+Connection: Keep-Alive
+

@@ -1,0 +1,18 @@
+[t5]
+FileName2=t1_3_netcheck.gif
+RawStepEndTime=1715081866198
+RequestBodyFile=t5_RequestBody.txt
+RawStepName=json
+ContentType=application/json
+URL1=https://update.googleapis.com/service/update2/json?cup2key=14:wHQ4yG-Owdstmgmo_3hISfE11tF9bgBQxyuPU822_PU&cup2hreq=7b2b751d98fa1d7ea2a44f872b0bb14f59a46d7b62839e30f1c69d60785e382a
+URL2=https://ssl.gstatic.com/docs/common/netcheck.gif?zx=z10qh145mhwd
+URL3=https://darkreader.org/blog/posts.json
+ResponseHeaderFile=t5_ResponseHeader.txt
+SnapshotXmlFile=snapshot_7.xml
+RequestHeaderFile=t5_RequestHeader.txt
+SaveSnapshotResources=1
+RawStepStartTime=1715081865747
+Total=3
+StepName=Custom Request: json
+FileName1=t5.json
+FileName3=t1_1_posts.json

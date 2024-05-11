@@ -1,0 +1,411 @@
+[API Trapper      (16bc:1ddc)] Recording in 32-bit mode: C:\Program Files (x86)\OpenText\LoadRunner\Bin\HP.LR.ProxyRecorderStarter.exe
+[Network Analyzer (1950:1894)] ------------------------------------------------------------------------------------------
+[Network Analyzer (1950:1894)] Load Network Traffic Analyzers:
+[Network Analyzer (1950:1894)]     Analyzer Module: WPLUS (value=)
+[Network Analyzer (1950:1894)]     Analyzer Module: WebBase (value=GetHttpProtocolAnalyzer:api_http_filter.dll)
+[Network Analyzer (1950:1894)]     + Network Analyzer: api_http_filter.dll @ GetHttpProtocolAnalyzer Loaded!
+[Network Analyzer (1950:1894)]     + Interception Auditors: WinInetWplusInterceptionAudit:api_http_filter.dll
+[Network Analyzer (1950:1894)]     Analyzer Module: QTWeb (value=GetWebSocketProtocolAnalyzer:WebSocketAnalyzer.dll)
+[Network Analyzer (1950:1894)]     + Network Analyzer: WebSocketAnalyzer.dll @ GetWebSocketProtocolAnalyzer Loaded!
+[Network Analyzer (1950:1894)]     Analyzer Module: local_server (value=)
+[Network Analyzer (1950:1894)] ------------------------------------------------------------------------------------------
+[Proxy Recording  (1950:1894)] Started proxy on port 8888 listening IP 192.168.0.107, 127.0.0.1, in asynchronous mode
+[Proxy Recording  (1950:2100)] Client request from @ 192.168.0.107:52864
+[Proxy Recording  (1950:2100)] Client request from @ 192.168.0.107:52865
+[Proxy Recording  (1950:2100)] Client request from @ 192.168.0.107:52868
+[Proxy Recording  (1950:2100)] Client request from @ 192.168.0.107:52869
+[Proxy Recording  (1950:2100)] Client request from @ 192.168.0.107:52873
+[Proxy Recording  (1950:2100)] Client request from @ 192.168.0.107:52875
+[Proxy Recording  (1950: ff0)] Trying to connect to https://clientservices.googleapis.com:443/chrome-variations/seed?osname=win&channel=beta&milestone=125 ...
+[Proxy Recording  (1950: ff0)] Trying to connect to https://clientservices.googleapis.com:443/chrome-variations/seed?osname=win&channel=beta&milestone=125 ...
+[Proxy Recording  (1950:2100)] Client request from @ 192.168.0.107:52878
+[Proxy Recording  (1950:2100)] Client request from @ 192.168.0.107:52879
+[Proxy Recording  (1950:2100)] Client request from @ 192.168.0.107:52880
+[Proxy Recording  (1950:2100)] Client request from @ 192.168.0.107:52881
+[Proxy Recording  (1950:2100)] Client request from @ 192.168.0.107:52882
+[Proxy Recording  (1950:2100)] Client request from @ 192.168.0.107:52883
+[Proxy Recording  (1950:2100)] Client request from @ 192.168.0.107:52884
+[Proxy Recording  (1950:2100)] Client request from @ 192.168.0.107:52885
+[Proxy Recording  (1950:2100)] Client request from @ 192.168.0.107:52886
+[Proxy Recording  (1950:2100)] Client request from @ 192.168.0.107:52887
+[Proxy Recording  (1950:2100)] Client request from @ 192.168.0.107:52888
+[Proxy Recording  (1950:2100)] Client request from @ 192.168.0.107:52889
+[Proxy Recording  (1950:2100)] Client request from @ 192.168.0.107:52890
+[Proxy Recording  (1950:2100)] Client request from @ 192.168.0.107:52891
+[Proxy Recording  (1950:2100)] Client request from @ 192.168.0.107:52892
+[Proxy Recording  (1950: d88)] Received response from https://clientservices.googleapis.com/chrome-variations/seed?osname=win&channel=beta&milestone=125
+[Proxy Recording  (1950: d88)] Sent response to client @ 192.168.0.107:52864
+[Web Request      (1950: d88)] "GET https://clientservices.googleapis.com/chrome-variations/seed?osname=win&channel=beta&milestone=125"   
+[Network Analyzer (1950: d88)]   (Sid:  1) Client -> Server @ : 526 bytes (SSL)(Service=HTTP)
+[Network Analyzer (1950: d88)]   (Sid:  1) Server -> Client : 206 bytes (SSL) (Service=HTTP)
+[Proxy Recording.Error (1950:12b8)] Exception is caught while trying to connect to https://accounts.google.com:443, message=Unable to read data from the transport connection: An established connection was aborted by the software in your host machine.
+[Proxy Recording.Error (1950:12b8)] Exception is caught while connecting to , message=Stream was not readable.
+[Proxy Recording.Error (1950:24e4)] Exception is caught while trying to connect to https://darkreader.org:443, message=Unable to read data from the transport connection: An established connection was aborted by the software in your host machine.
+[Proxy Recording.Error (1950:24e4)] Exception is caught while connecting to , message=Stream was not readable.
+[Proxy Recording.Error (1950:1420)] Exception is caught while trying to connect to https://www.google-analytics.com:443, message=Unable to read data from the transport connection: An established connection was aborted by the software in your host machine.
+[Proxy Recording.Error (1950:1420)] Exception is caught while connecting to , message=Stream was not readable.
+[Proxy Recording.Error (1950:11f8)] Exception is caught while trying to connect to https://www.googleapis.com:443, message=Unable to read data from the transport connection: An established connection was aborted by the software in your host machine.
+[Proxy Recording.Error (1950:11f8)] Exception is caught while connecting to , message=Stream was not readable.
+[Proxy Recording.Error (1950: ff0)] Exception is caught while trying to connect to https://www.googleapis.com:443, message=Unable to read data from the transport connection: An established connection was aborted by the software in your host machine.
+[Proxy Recording.Error (1950: ff0)] Exception is caught while connecting to , message=Stream was not readable.
+[Proxy Recording.Error (1950: d9c)] Exception is caught while trying to connect to https://www.google-analytics.com:443, message=Unable to read data from the transport connection: An established connection was aborted by the software in your host machine.
+[Proxy Recording.Error (1950:12b8)] Exception is caught while trying to connect to https://darkreader.org:443, message=Unable to read data from the transport connection: An established connection was aborted by the software in your host machine.
+[Proxy Recording.Error (1950:24e4)] Exception is caught while trying to connect to https://accounts.google.com:443, message=Unable to read data from the transport connection: An established connection was aborted by the software in your host machine.
+[Proxy Recording.Error (1950:1420)] Exception is caught while trying to connect to https://www.googleapis.com:443, message=Unable to read data from the transport connection: An established connection was aborted by the software in your host machine.
+[Proxy Recording.Error (1950:11f8)] Exception is caught while trying to connect to https://www.googleapis.com:443, message=Unable to read data from the transport connection: An established connection was aborted by the software in your host machine.
+[Proxy Recording.Error (1950: d9c)] Exception is caught while connecting to , message=Stream was not readable.
+[Proxy Recording.Error (1950:12b8)] Exception is caught while connecting to , message=Stream was not readable.
+[Proxy Recording.Error (1950:24e4)] Exception is caught while connecting to , message=Stream was not readable.
+[Proxy Recording.Error (1950:1420)] Exception is caught while connecting to , message=Stream was not readable.
+[Proxy Recording.Error (1950:11f8)] Exception is caught while connecting to , message=Stream was not readable.
+[Proxy Recording.Error (1950: ff0)] Exception is caught while trying to connect to https://clients2.google.com:443, message=Unable to read data from the transport connection: An established connection was aborted by the software in your host machine.
+[Proxy Recording.Error (1950: ff0)] Exception is caught while connecting to , message=Stream was not readable.
+[Proxy Recording.Error (1950: d9c)] Exception is caught while trying to connect to https://update.googleapis.com:443, message=Unable to read data from the transport connection: An established connection was aborted by the software in your host machine.
+[Proxy Recording.Error (1950: d9c)] Exception is caught while connecting to , message=Stream was not readable.
+[Proxy Recording  (1950: d9c)] Trying to connect to https://www.googleapis.com:443/oauth2/v4/token ...
+[Proxy Recording  (1950: ff0)] Trying to connect to https://update.googleapis.com:443/service/update2/json?cup2key=14:4vkH8h8KqY8OeKnYJ-gVQ4aYeYhCyUJrgXWq_5Jbk5E&cup2hreq=ca0a613abce141051beb7811d467687d7e6ce510c33e0c6242bc4755dc96edba ...
+[Proxy Recording  (1950:12b8)] Trying to connect to https://darkreader.org:443/blog/posts.json ...
+[Proxy Recording  (1950:12b8)] Trying to connect to https://darkreader.org:443/blog/posts.json ...
+[Proxy Recording  (1950:11f8)] Trying to connect to https://clients2.google.com:443/service/update2/crx?os=win&arch=x64&os_arch=x86_64&nacl_arch=x86-64&prod=chromecrx&prodchannel=beta&prodversion=125.0.6422.26&lang=en-US&acceptformat=crx3,puff&x=id%3Daieoplapobidheellikiicjfpamacpfd%26v%3D0.0.0.0%26installedby%3Dinternal%26uc&x=id%3Dgfenjblodoldnbiddmggcbkcapiolbig%26v%3D0.0.0.0%26installedby%3Dinternal%26uc%26ping%3Dr%253D14%2526e%253D1&x=id%3Dhflefjhkfeiaignkclmphmokmmbhbhik%26v%3D0.0.0.0%26installedby%3Dinternal%26uc%26ping%3Dr%253D14%2526e%253D1 ...
+[Proxy Recording  (1950:11f8)] Trying to connect to https://clients2.google.com:443/service/update2/crx?os=win&arch=x64&os_arch=x86_64&nacl_arch=x86-64&prod=chromecrx&prodchannel=beta&prodversion=125.0.6422.26&lang=en-US&acceptformat=crx3,puff&x=id%3Daieoplapobidheellikiicjfpamacpfd%26v%3D0.0.0.0%26installedby%3Dinternal%26uc&x=id%3Dgfenjblodoldnbiddmggcbkcapiolbig%26v%3D0.0.0.0%26installedby%3Dinternal%26uc%26ping%3Dr%253D14%2526e%253D1&x=id%3Dhflefjhkfeiaignkclmphmokmmbhbhik%26v%3D0.0.0.0%26installedby%3Dinternal%26uc%26ping%3Dr%253D14%2526e%253D1 ...
+[Proxy Recording  (1950:24e4)] Trying to connect to https://www.google-analytics.com:443/j/collect?v=1&_v=j101&a=1764978226&t=pageview&_s=1&dl=chrome-extension%3A%2F%2Fllbdoljkknpjgfcnbnoiehjcgancpjmd%2F_generated_background_page.html&dp=%2Fbackground&ul=en-us&de=UTF-8&sd=24-bit&sr=1536x864&vp=&je=0&_u=QACAAEABAAAAACAEI~&jid=973551092&gjid=1495181844&cid=830389759.1694837545&tid=UA-169009641-3&_gid=1307316543.1704256953&_r=1&_slc=1&z=653207630 ...
+[Proxy Recording  (1950:1420)] Trying to connect to https://accounts.google.com:443/ListAccounts?gpsia=1&source=ChromiumBrowser&json=standard ...
+[Proxy Recording  (1950:12b8)] Trying to connect to https://www.googleapis.com:443/oauth2/v4/token ...
+[Proxy Recording  (1950: ff0)] Trying to connect to https://update.googleapis.com:443/service/update2/json?cup2key=14:4vkH8h8KqY8OeKnYJ-gVQ4aYeYhCyUJrgXWq_5Jbk5E&cup2hreq=ca0a613abce141051beb7811d467687d7e6ce510c33e0c6242bc4755dc96edba ...
+[Proxy Recording  (1950: d9c)] Trying to connect to https://www.googleapis.com:443/oauth2/v4/token ...
+[Proxy Recording  (1950:12b8)] Trying to connect to https://www.googleapis.com:443/oauth2/v4/token ...
+[Proxy Recording  (1950:1508)] Received response from https://darkreader.org/blog/posts.json
+[Proxy Recording  (1950:1508)] Sent response to client @ 192.168.0.107:52886
+[Web Request      (1950:1508)] "GET https://darkreader.org/blog/posts.json"   
+[Proxy Recording  (1950:24e4)] Trying to connect to https://www.google-analytics.com:443/j/collect?v=1&_v=j101&a=1764978226&t=pageview&_s=1&dl=chrome-extension%3A%2F%2Fllbdoljkknpjgfcnbnoiehjcgancpjmd%2F_generated_background_page.html&dp=%2Fbackground&ul=en-us&de=UTF-8&sd=24-bit&sr=1536x864&vp=&je=0&_u=QACAAEABAAAAACAEI~&jid=973551092&gjid=1495181844&cid=830389759.1694837545&tid=UA-169009641-3&_gid=1307316543.1704256953&_r=1&_slc=1&z=653207630 ...
+[Network Analyzer (1950:1508)]   (Sid:  2) Client -> Server @ : 635 bytes (SSL)(Service=HTTP)
+[Network Analyzer (1950:1508)]   (Sid:  2) Server -> Client : 400 bytes (SSL) (Service=HTTP)
+[Proxy Recording  (1950: d9c)] Received response from https://www.googleapis.com/oauth2/v4/token
+[Proxy Recording  (1950: d9c)] Sent response to client @ 192.168.0.107:52891
+[Network Analyzer (1950: d9c)]   (Sid:  3) Client -> Server @ : 455 bytes (SSL)(Service=HTTP)
+[Web Request      (1950: d9c)] "POST https://www.googleapis.com/oauth2/v4/token"   
+[Network Analyzer (1950: d9c)]   (Sid:  3) Client -> Server @ : 230 bytes (SSL)(Service=HTTP)
+[Network Analyzer (1950: d9c)]   (Sid:  3) Server -> Client : 455 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1950: d9c)]   (Sid:  3) Server -> Client : 1 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1950: d9c)]   (Sid:  3) Server -> Client : 1 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1950: d9c)]   (Sid:  3) Server -> Client : 1 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1950: d9c)]   (Sid:  3) Server -> Client : 1 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1950: d9c)]   (Sid:  3) Server -> Client : 1 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1950: d9c)]   (Sid:  3) Server -> Client : 1 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1950: d9c)]   (Sid:  3) Server -> Client : 1 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1950: d9c)]   (Sid:  3) Server -> Client : 1 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1950: d9c)]   (Sid:  3) Server -> Client : 1 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1950: d9c)]   (Sid:  3) Server -> Client : 1 bytes (SSL) (Service=HTTP)
+[Proxy Recording  (1950:24e4)] Received response from https://www.google-analytics.com/j/collect?v=1&_v=j101&a=1764978226&t=pageview&_s=1&dl=chrome-extension%3A%2F%2Fllbdoljkknpjgfcnbnoiehjcgancpjmd%2F_generated_background_page.html&dp=%2Fbackground&ul=en-us&de=UTF-8&sd=24-bit&sr=1536x864&vp=&je=0&_u=QACAAEABAAAAACAEI~&jid=973551092&gjid=1495181844&cid=830389759.1694837545&tid=UA-169009641-3&_gid=1307316543.1704256953&_r=1&_slc=1&z=653207630
+[Network Analyzer (1950: d9c)]   (Sid:  3) Server -> Client : 1 bytes (SSL) (Service=HTTP)
+[Proxy Recording  (1950:24e4)] Sent response to client @ 192.168.0.107:52887
+[Proxy Recording  (1950:2100)] Client request from @ 192.168.0.107:52932
+[Network Analyzer (1950: d9c)]   (Sid:  3) Server -> Client : 1 bytes (SSL) (Service=HTTP)
+[Web Request      (1950:24e4)] "POST https://www.google-analytics.com/j/collect?v=1&_v=j101&a=1764978226&t=pageview&_s=1&dl=chrome-extension%3A%2F%2Fllbdoljkknpjgfcnbnoiehjcgancpjmd%2F_generated_background_page.html&dp=%2Fbackground&ul=en-us&de=UTF-8&sd=24-bit&sr=1536x864&vp=&je=0&_u=QACAAEABAAAAACAEI~&jid=973551092&gjid=1495181844&cid=830389759.1694837545&tid=UA-169009641-3&_gid=1307316543.1704256953&_r=1&_slc=1&z=653207630"   
+[Network Analyzer (1950:24e4)]   (Sid:  4) Client -> Server @ : 1001 bytes (SSL)(Service=HTTP)
+[Network Analyzer (1950:24e4)]   (Sid:  4) Server -> Client : 530 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1950:24e4)]   (Sid:  4) Server -> Client : 16 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1950: d9c)]   (Sid:  3) Server -> Client : 1 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1950: 45c)]   (Sid:  3) Server -> Client : 997 bytes (SSL) (Service=HTTP)
+[Proxy Recording  (1950:2100)] Client request from @ 192.168.0.107:52933
+[Proxy Recording  (1950:1420)] Trying to connect to https://accounts.google.com:443/ListAccounts?gpsia=1&source=ChromiumBrowser&json=standard ...
+[Proxy Recording  (1950:12b8)] Received response from https://www.googleapis.com/oauth2/v4/token
+[Proxy Recording  (1950:12b8)] Sent response to client @ 192.168.0.107:52892
+[Network Analyzer (1950:12b8)]   (Sid:  5) Client -> Server @ : 455 bytes (SSL)(Service=HTTP)
+[Web Request      (1950:12b8)] "POST https://www.googleapis.com/oauth2/v4/token"   
+[Network Analyzer (1950:12b8)]   (Sid:  5) Client -> Server @ : 279 bytes (SSL)(Service=HTTP)
+[Network Analyzer (1950:12b8)]   (Sid:  5) Server -> Client : 455 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1950:12b8)]   (Sid:  5) Server -> Client : 1 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1950:12b8)]   (Sid:  5) Server -> Client : 1 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1950:12b8)]   (Sid:  5) Server -> Client : 1 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1950:12b8)]   (Sid:  5) Server -> Client : 1 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1950:12b8)]   (Sid:  5) Server -> Client : 392 bytes (SSL) (Service=HTTP)
+[Proxy Recording  (1950:2100)] Client request from @ 192.168.0.107:52934
+[Proxy Recording  (1950: ff0)] Received response from https://update.googleapis.com/service/update2/json?cup2key=14:4vkH8h8KqY8OeKnYJ-gVQ4aYeYhCyUJrgXWq_5Jbk5E&cup2hreq=ca0a613abce141051beb7811d467687d7e6ce510c33e0c6242bc4755dc96edba
+[Proxy Recording  (1950: ff0)] Sent response to client @ 192.168.0.107:52890
+[Network Analyzer (1950: 45c)]   (Sid:  6) Client -> Server @ : 1276 bytes (SSL)(Service=HTTP)
+[Web Request      (1950: 45c)] "POST https://update.googleapis.com/service/update2/json?cup2key=14:4vkH8h8KqY8OeKnYJ-gVQ4aYeYhCyUJrgXWq_5Jbk5E&cup2hreq=ca0a613abce141051beb7811d467687d7e6ce510c33e0c6242bc4755dc96edba"   
+[Network Analyzer (1950: 45c)]   (Sid:  6) Client -> Server @ : 6386 bytes (SSL)(Service=HTTP)
+[Network Analyzer (1950: 45c)]   (Sid:  6) Server -> Client : 1121 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1950: 45c)]   (Sid:  6) Server -> Client : 1 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1950: 45c)]   (Sid:  6) Server -> Client : 1 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1950: 45c)]   (Sid:  6) Server -> Client : 1 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1950: 45c)]   (Sid:  6) Server -> Client : 1 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1950: 45c)]   (Sid:  6) Server -> Client : 1 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1950: 45c)]   (Sid:  6) Server -> Client : 1 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1950: 45c)]   (Sid:  6) Server -> Client : 1 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1950: 45c)]   (Sid:  6) Server -> Client : 1 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1950: 45c)]   (Sid:  6) Server -> Client : 1 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1950: 45c)]   (Sid:  6) Server -> Client : 1 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1950: 45c)]   (Sid:  6) Server -> Client : 1 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1950: 45c)]   (Sid:  6) Server -> Client : 1 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1950: 45c)]   (Sid:  6) Server -> Client : 1 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1950: 45c)]   (Sid:  6) Server -> Client : 1 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1950: 45c)]   (Sid:  6) Server -> Client : 1 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1950: 45c)]   (Sid:  6) Server -> Client : 1 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1950: 45c)]   (Sid:  6) Server -> Client : 1 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1950: 45c)]   (Sid:  6) Server -> Client : 1 bytes (SSL) (Service=HTTP)
+[Proxy Recording  (1950: 7e0)] Received response from https://clients2.google.com/service/update2/crx?os=win&arch=x64&os_arch=x86_64&nacl_arch=x86-64&prod=chromecrx&prodchannel=beta&prodversion=125.0.6422.26&lang=en-US&acceptformat=crx3,puff&x=id%3Daieoplapobidheellikiicjfpamacpfd%26v%3D0.0.0.0%26installedby%3Dinternal%26uc&x=id%3Dgfenjblodoldnbiddmggcbkcapiolbig%26v%3D0.0.0.0%26installedby%3Dinternal%26uc%26ping%3Dr%253D14%2526e%253D1&x=id%3Dhflefjhkfeiaignkclmphmokmmbhbhik%26v%3D0.0.0.0%26installedby%3Dinternal%26uc%26ping%3Dr%253D14%2526e%253D1
+[Proxy Recording  (1950: 7e0)] Sent response to client @ 192.168.0.107:52889
+[Network Analyzer (1950: 45c)]   (Sid:  6) Server -> Client : 1 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1950: 45c)]   (Sid:  6) Server -> Client : 571 bytes (SSL) (Service=HTTP)
+[Web Request      (1950:1508)] "GET https://clients2.google.com/service/update2/crx?os=win&arch=x64&os_arch=x86_64&nacl_arch=x86-64&prod=chromecrx&prodchannel=beta&prodversion=125.0.6422.26&lang=en-US&acceptformat=crx3,puff&x=id%3Daieoplapobidheellikiicjfpamacpfd%26v%3D0.0.0.0%26installedby%3Dinternal%26uc&x=id%3Dgfenjblodoldnbiddmggcbkcapiolbig%26v%3D0.0.0.0%26installedby%3Dinternal%26uc%26ping%3Dr%253D14%2526e%253D1&x=id%3Dhflefjhkfeiaignkclmphmokmmbhbhik%26v%3D0.0.0.0%26installedby%3Dinternal%26uc%26ping%3Dr%253D14%2526e%253D1"   
+[Network Analyzer (1950:1508)]   (Sid:  7) Client -> Server @ : 1044 bytes (SSL)(Service=HTTP)
+[Network Analyzer (1950:1508)]   (Sid:  7) Server -> Client : 665 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1950:1508)]   (Sid:  7) Server -> Client : 1 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1950:1508)]   (Sid:  7) Server -> Client : 1 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1950:1508)]   (Sid:  7) Server -> Client : 1 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1950:1508)]   (Sid:  7) Server -> Client : 1 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1950:1508)]   (Sid:  7) Server -> Client : 322 bytes (SSL) (Service=HTTP)
+[Proxy Recording  (1950:1420)] Received response from https://accounts.google.com/ListAccounts?gpsia=1&source=ChromiumBrowser&json=standard
+[Proxy Recording  (1950:1420)] Sent response to client @ 192.168.0.107:52888
+[Network Analyzer (1950:1508)]   (Sid:  8) Client -> Server @ : 5891 bytes (SSL)(Service=HTTP)
+[Web Request      (1950:1508)] "POST https://accounts.google.com/ListAccounts?gpsia=1&source=ChromiumBrowser&json=standard"   
+[Network Analyzer (1950:1508)]   (Sid:  8) Client -> Server @ : 1 bytes (SSL)(Service=HTTP)
+[Network Analyzer (1950:1508)]   (Sid:  8) Server -> Client : 2809 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1950:1508)]   (Sid:  8) Server -> Client : 1 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1950:1508)]   (Sid:  8) Server -> Client : 1 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1950:1508)]   (Sid:  8) Server -> Client : 1 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1950:1508)]   (Sid:  8) Server -> Client : 1 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1950:1508)]   (Sid:  8) Server -> Client : 1 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1950:1508)]   (Sid:  8) Server -> Client : 1 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1950:1508)]   (Sid:  8) Server -> Client : 1 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1950:1508)]   (Sid:  8) Server -> Client : 1 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1950:1508)]   (Sid:  8) Server -> Client : 1 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1950:1508)]   (Sid:  8) Server -> Client : 1 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1950:1508)]   (Sid:  8) Server -> Client : 1 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1950:1508)]   (Sid:  8) Server -> Client : 1 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1950:1508)]   (Sid:  8) Server -> Client : 1 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1950:1508)]   (Sid:  8) Server -> Client : 1 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1950:1508)]   (Sid:  8) Server -> Client : 536 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1950:1508)]   (Sid:  8) Server -> Client : 1 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1950:1508)]   (Sid:  8) Server -> Client : 1 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1950:1508)]   (Sid:  8) Server -> Client : 1 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1950:1508)]   (Sid:  8) Server -> Client : 1 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1950:1508)]   (Sid:  8) Server -> Client : 1 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1950:1508)]   (Sid:  8) Server -> Client : 1 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1950:1508)]   (Sid:  8) Server -> Client : 1 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1950:1508)]   (Sid:  8) Server -> Client : 3 bytes (SSL) (Service=HTTP)
+[Proxy Recording  (1950:11f8)] Trying to connect to https://stats.g.doubleclick.net:443/j/collect?t=dc&aip=1&_r=3&v=1&_v=j101&tid=UA-169009641-3&cid=830389759.1694837545&jid=973551092&gjid=1495181844&_gid=1307316543.1704256953&_u=QACAAEAAAAAAACAEI~&z=1529893232 ...
+[Proxy Recording  (1950:11f8)] Trying to connect to https://stats.g.doubleclick.net:443/j/collect?t=dc&aip=1&_r=3&v=1&_v=j101&tid=UA-169009641-3&cid=830389759.1694837545&jid=973551092&gjid=1495181844&_gid=1307316543.1704256953&_u=QACAAEAAAAAAACAEI~&z=1529893232 ...
+[Proxy Recording  (1950:2100)] Client request from @ 192.168.0.107:52937
+[Proxy Recording  (1950:11f8)] Received response from https://stats.g.doubleclick.net/j/collect?t=dc&aip=1&_r=3&v=1&_v=j101&tid=UA-169009641-3&cid=830389759.1694837545&jid=973551092&gjid=1495181844&_gid=1307316543.1704256953&_u=QACAAEAAAAAAACAEI~&z=1529893232
+[Proxy Recording  (1950:11f8)] Sent response to client @ 192.168.0.107:52932
+[Web Request      (1950:11f8)] "POST https://stats.g.doubleclick.net/j/collect?t=dc&aip=1&_r=3&v=1&_v=j101&tid=UA-169009641-3&cid=830389759.1694837545&jid=973551092&gjid=1495181844&_gid=1307316543.1704256953&_u=QACAAEAAAAAAACAEI~&z=1529893232"   
+[Network Analyzer (1950:11f8)]   (Sid:  9) Client -> Server @ : 989 bytes (SSL)(Service=HTTP)
+[Network Analyzer (1950:11f8)]   (Sid:  9) Server -> Client : 602 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1950:11f8)]   (Sid:  9) Server -> Client : 1 bytes (SSL) (Service=HTTP)
+[Proxy Recording  (1950: d9c)] Trying to connect to https://oauthaccountmanager.googleapis.com:443/v1/issuetoken ...
+[Proxy Recording  (1950: d9c)] Trying to connect to https://oauthaccountmanager.googleapis.com:443/v1/issuetoken ...
+[Proxy Recording  (1950: d9c)] Received response from https://oauthaccountmanager.googleapis.com/v1/issuetoken
+[Proxy Recording  (1950: d9c)] Sent response to client @ 192.168.0.107:52933
+[Network Analyzer (1950: d9c)]   (Sid: 10) Client -> Server @ : 830 bytes (SSL)(Service=HTTP)
+[Web Request      (1950: d9c)] "POST https://oauthaccountmanager.googleapis.com/v1/issuetoken"   
+[Network Analyzer (1950: d9c)]   (Sid: 10) Client -> Server @ : 428 bytes (SSL)(Service=HTTP)
+[Network Analyzer (1950: d9c)]   (Sid: 10) Server -> Client : 432 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1950: d9c)]   (Sid: 10) Server -> Client : 1 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1950: d9c)]   (Sid: 10) Server -> Client : 1 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1950: d9c)]   (Sid: 10) Server -> Client : 1 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1950: d9c)]   (Sid: 10) Server -> Client : 1 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1950: d9c)]   (Sid: 10) Server -> Client : 1 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1950: d9c)]   (Sid: 10) Server -> Client : 1 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1950: d9c)]   (Sid: 10) Server -> Client : 1 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1950: d9c)]   (Sid: 10) Server -> Client : 1 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1950: d9c)]   (Sid: 10) Server -> Client : 1 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1950: d9c)]   (Sid: 10) Server -> Client : 1 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1950: d9c)]   (Sid: 10) Server -> Client : 1 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1950: d9c)]   (Sid: 10) Server -> Client : 1 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1950: d9c)]   (Sid: 10) Server -> Client : 1 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1950: d9c)]   (Sid: 10) Server -> Client : 1 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1950: d9c)]   (Sid: 10) Server -> Client : 1 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1950: d9c)]   (Sid: 10) Server -> Client : 1 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1950: d9c)]   (Sid: 10) Server -> Client : 1 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1950: d9c)]   (Sid: 10) Server -> Client : 441 bytes (SSL) (Service=HTTP)
+[Proxy Recording  (1950:12b8)] Trying to connect to https://clients4.google.com:443/chrome-sync/command/?client=Google+Chrome&client_id=GWs9AqL0LfltgSszeu153Q%3D%3D ...
+[Proxy Recording  (1950:12b8)] Trying to connect to https://clients4.google.com:443/chrome-sync/command/?client=Google+Chrome&client_id=GWs9AqL0LfltgSszeu153Q%3D%3D ...
+[Proxy Recording  (1950: ff0)] Trying to connect to https://optimizationguide-pa.googleapis.com:443/v1:GetModels?key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw ...
+[Proxy Recording  (1950: ff0)] Trying to connect to https://optimizationguide-pa.googleapis.com:443/v1:GetModels?key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw ...
+[Proxy Recording  (1950:12b8)] Received response from https://clients4.google.com/chrome-sync/command/?client=Google+Chrome&client_id=GWs9AqL0LfltgSszeu153Q%3D%3D
+[Proxy Recording  (1950:12b8)] Sent response to client @ 192.168.0.107:52934
+[Network Analyzer (1950:12b8)]   (Sid: 11) Client -> Server @ : 1187 bytes (SSL)(Service=HTTP)
+[Web Request      (1950:12b8)] "POST https://clients4.google.com/chrome-sync/command/?client=Google+Chrome&client_id=GWs9AqL0LfltgSszeu153Q%3D%3D"   
+[Network Analyzer (1950:12b8)]   (Sid: 11) Client -> Server @ : 1141 bytes (SSL)(Service=HTTP)
+[Network Analyzer (1950:12b8)]   (Sid: 11) Server -> Client : 580 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1950:12b8)]   (Sid: 11) Server -> Client : 1 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1950:12b8)]   (Sid: 11) Server -> Client : 1 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1950:12b8)]   (Sid: 11) Server -> Client : 1 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1950:12b8)]   (Sid: 11) Server -> Client : 1 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1950:12b8)]   (Sid: 11) Server -> Client : 1 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1950:12b8)]   (Sid: 11) Server -> Client : 1 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1950:12b8)]   (Sid: 11) Server -> Client : 1 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1950:12b8)]   (Sid: 11) Server -> Client : 1 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1950:12b8)]   (Sid: 11) Server -> Client : 1 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1950:12b8)]   (Sid: 11) Server -> Client : 1 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1950:12b8)]   (Sid: 11) Server -> Client : 1 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1950:12b8)]   (Sid: 11) Server -> Client : 1 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1950:12b8)]   (Sid: 11) Server -> Client : 1 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1950:12b8)]   (Sid: 11) Server -> Client : 1 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1950:12b8)]   (Sid: 11) Server -> Client : 1 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1950:12b8)]   (Sid: 11) Server -> Client : 1 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1950:12b8)]   (Sid: 11) Server -> Client : 1 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1950:12b8)]   (Sid: 11) Server -> Client : 1 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1950:1508)]   (Sid: 11) Server -> Client : 1024 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1950:1508)]   (Sid: 11) Server -> Client : 892 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1950:1508)]   (Sid: 11) Server -> Client : 689 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1950:1508)]   (Sid: 11) Server -> Client : 1 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1950:1508)]   (Sid: 11) Server -> Client : 1 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1950:1508)]   (Sid: 11) Server -> Client : 8 bytes (SSL) (Service=HTTP)
+[Proxy Recording  (1950:2100)] Client request from @ 192.168.0.107:52944
+[Proxy Recording  (1950: ff0)] Received response from https://optimizationguide-pa.googleapis.com/v1:GetModels?key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw
+[Proxy Recording  (1950: ff0)] Sent response to client @ 192.168.0.107:52937
+[Network Analyzer (1950: ff0)]   (Sid: 12) Client -> Server @ : 776 bytes (SSL)(Service=HTTP)
+[Web Request      (1950: ff0)] "POST https://optimizationguide-pa.googleapis.com/v1:GetModels?key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw"   
+[Network Analyzer (1950: ff0)]   (Sid: 12) Client -> Server @ : 938 bytes (SSL)(Service=HTTP)
+[Network Analyzer (1950: ff0)]   (Sid: 12) Server -> Client : 359 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1950: ff0)]   (Sid: 12) Server -> Client : 1 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1950: ff0)]   (Sid: 12) Server -> Client : 1 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1950: ff0)]   (Sid: 12) Server -> Client : 1 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1950: ff0)]   (Sid: 12) Server -> Client : 1 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1950: ff0)]   (Sid: 12) Server -> Client : 1 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1950: ff0)]   (Sid: 12) Server -> Client : 1 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1950: ff0)]   (Sid: 12) Server -> Client : 1 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1950: ff0)]   (Sid: 12) Server -> Client : 1 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1950: ff0)]   (Sid: 12) Server -> Client : 1 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1950: ff0)]   (Sid: 12) Server -> Client : 1 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1950: ff0)]   (Sid: 12) Server -> Client : 1 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1950: ff0)]   (Sid: 12) Server -> Client : 1 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1950: ff0)]   (Sid: 12) Server -> Client : 1 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1950: ff0)]   (Sid: 12) Server -> Client : 1 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1950: ff0)]   (Sid: 12) Server -> Client : 1 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1950: ff0)]   (Sid: 12) Server -> Client : 1 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1950: 45c)]   (Sid: 12) Server -> Client : 1024 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1950: 45c)]   (Sid: 12) Server -> Client : 1024 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1950: 45c)]   (Sid: 12) Server -> Client : 101 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1950: 45c)]   (Sid: 12) Server -> Client : 189 bytes (SSL) (Service=HTTP)
+[Proxy Recording  (1950:1420)] Trying to connect to https://clients4.google.com:443/chrome-sync/command/?client=Google+Chrome&client_id=GWs9AqL0LfltgSszeu153Q%3D%3D ...
+[Proxy Recording  (1950:1420)] Trying to connect to https://clients4.google.com:443/chrome-sync/command/?client=Google+Chrome&client_id=GWs9AqL0LfltgSszeu153Q%3D%3D ...
+[User action                 ] Pausing...  [User action                 ] Pausing...  [Proxy Recording.Error (1950:276c)] Exception is caught while connecting to , message=Index was outside the bounds of the array.
+[Proxy Recording  (1950:2100)] Client request from @ 192.168.0.107:53044
+[Proxy Recording  (1950:2100)] Client request from @ 192.168.0.107:53045
+[Proxy Recording  (1950:22c4)] Trying to connect to https://clients4.google.com:443/chrome-sync/command/?client=Google+Chrome&client_id=GWs9AqL0LfltgSszeu153Q%3D%3D ...
+[Proxy Recording  (1950:22c4)] Trying to connect to https://clients4.google.com:443/chrome-sync/command/?client=Google+Chrome&client_id=GWs9AqL0LfltgSszeu153Q%3D%3D ...
+[Proxy Recording  (1950:276c)] Trying to connect to https://ssl.gstatic.com:443/docs/common/netcheck.gif?zx=k9k0grdq4hc5 ...
+[Proxy Recording  (1950:276c)] Trying to connect to https://ssl.gstatic.com:443/docs/common/netcheck.gif?zx=k9k0grdq4hc5 ...
+[Proxy Recording  (1950:22c4)] Received response from https://clients4.google.com/chrome-sync/command/?client=Google+Chrome&client_id=GWs9AqL0LfltgSszeu153Q%3D%3D
+[Proxy Recording  (1950:22c4)] Sent response to client @ 192.168.0.107:53045
+[Network Analyzer (1950:22c4)]   (Sid: 15) Client -> Server @ : 1163 bytes (SSL)(Service=HTTP)
+[Web Request      (1950:22c4)] "POST https://clients4.google.com/chrome-sync/command/?client=Google+Chrome&client_id=GWs9AqL0LfltgSszeu153Q%3D%3D"   
+[Network Analyzer (1950:22c4)]   (Sid: 15) Client -> Server @ : 2569 bytes (SSL)(Service=HTTP)
+[Network Analyzer (1950:22c4)]   (Sid: 15) Server -> Client : 580 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1950:22c4)]   (Sid: 15) Server -> Client : 1 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1950:22c4)]   (Sid: 15) Server -> Client : 1 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1950:22c4)]   (Sid: 15) Server -> Client : 1 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1950:22c4)]   (Sid: 15) Server -> Client : 1 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1950:22c4)]   (Sid: 15) Server -> Client : 1 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1950:22c4)]   (Sid: 15) Server -> Client : 1 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1950:22c4)]   (Sid: 15) Server -> Client : 1 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1950:22c4)]   (Sid: 15) Server -> Client : 1 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1950:22c4)]   (Sid: 15) Server -> Client : 594 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1950:1508)]   (Sid: 15) Server -> Client : 1 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1950:1508)]   (Sid: 15) Server -> Client : 1 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1950:1508)]   (Sid: 15) Server -> Client : 8 bytes (SSL) (Service=HTTP)
+[Proxy Recording  (1950:2134)] Received response from https://ssl.gstatic.com/docs/common/netcheck.gif?zx=k9k0grdq4hc5
+[Proxy Recording  (1950:2134)] Sent response to client @ 192.168.0.107:53044
+[Web Request      (1950:2134)] "GET https://ssl.gstatic.com/docs/common/netcheck.gif?zx=k9k0grdq4hc5"   
+[Network Analyzer (1950:2134)]   (Sid: 16) Client -> Server @ : 754 bytes (SSL)(Service=HTTP)
+[Network Analyzer (1950:2134)]   (Sid: 16) Server -> Client : 757 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1950:2134)]   (Sid: 16) Server -> Client : 43 bytes (SSL) (Service=HTTP)
+[Proxy Recording  (1950:2100)] Client request from @ 192.168.0.107:53049
+[Proxy Recording  (1950:2100)] Client request from @ 192.168.0.107:53050
+[User action                 ] Pausing...  [User action                 ] Pausing...  [Proxy Recording  (1950:2100)] Client request from @ 192.168.0.107:53133
+[Proxy Recording  (1950:2100)] Client request from @ 192.168.0.107:53135
+[Proxy Recording  (1950:22c4)] Trying to connect to https://clientservices.googleapis.com:443/uma/v2 ...
+[Proxy Recording  (1950:22c4)] Trying to connect to https://clientservices.googleapis.com:443/uma/v2 ...
+[Proxy Recording  (1950:22c4)] Received response from https://clientservices.googleapis.com/uma/v2
+[Proxy Recording  (1950:22c4)] Sent response to client @ 192.168.0.107:53133
+[Network Analyzer (1950:22c4)]   (Sid: 18) Client -> Server @ : 595 bytes (SSL)(Service=HTTP)
+[Web Request      (1950:22c4)] "POST https://clientservices.googleapis.com/uma/v2"   
+[Network Analyzer (1950:22c4)]   (Sid: 18) Client -> Server @ : 3215 bytes (SSL)(Service=HTTP)
+[Network Analyzer (1950:22c4)]   (Sid: 18) Server -> Client : 288 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1950:22c4)]   (Sid: 18) Server -> Client : 22 bytes (SSL) (Service=HTTP)
+[Proxy Recording  (1950: 9ac)] Trying to connect to https://clients4.google.com:443/ukm ...
+[Proxy Recording  (1950: 9ac)] Trying to connect to https://clients4.google.com:443/ukm ...
+[Proxy Recording  (1950:2100)] Client request from @ 192.168.0.107:53137
+[Proxy Recording  (1950: 9ac)] Received response from https://clients4.google.com/ukm
+[Proxy Recording  (1950: 9ac)] Sent response to client @ 192.168.0.107:53135
+[Web Request      (1950: 9ac)] "POST https://clients4.google.com/ukm"
+[Network Analyzer (1950: 9ac)]   (Sid: 19) Client -> Server @ : 573 bytes (SSL)(Service=HTTP)
+[Network Analyzer (1950: 9ac)]   (Sid: 19) Client -> Server @ : 33532 bytes (SSL)(Service=HTTP)
+[Network Analyzer (1950: 9ac)]   (Sid: 19) Server -> Client : 288 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1950: 9ac)]   (Sid: 19) Server -> Client : 1 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1950: 9ac)]   (Sid: 19) Server -> Client : 1 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1950: 9ac)]   (Sid: 19) Server -> Client : 1 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1950: 9ac)]   (Sid: 19) Server -> Client : 1 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1950: 9ac)]   (Sid: 19) Server -> Client : 1 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1950: 9ac)]   (Sid: 19) Server -> Client : 1 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1950: 9ac)]   (Sid: 19) Server -> Client : 1 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1950: 9ac)]   (Sid: 19) Server -> Client : 1 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1950: 9ac)]   (Sid: 19) Server -> Client : 1 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1950: 9ac)]   (Sid: 19) Server -> Client : 1 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1950: 9ac)]   (Sid: 19) Server -> Client : 1 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1950: 9ac)]   (Sid: 19) Server -> Client : 1 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1950: 9ac)]   (Sid: 19) Server -> Client : 1 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1950: 9ac)]   (Sid: 19) Server -> Client : 1 bytes (SSL) (Service=HTTP)
+[Proxy Recording  (1950:22c4)] Trying to connect to https://update.googleapis.com:443/service/update2/json?cup2key=14:R1yThCCJ87R9gRRUYFeynx3r-AsHQmtO-FdIOesknrA&cup2hreq=8aa7195642a2f1e7c05921263517741855c39ec672d75633d4214dcf86bd874c ...
+[Proxy Recording  (1950:22c4)] Trying to connect to https://update.googleapis.com:443/service/update2/json?cup2key=14:R1yThCCJ87R9gRRUYFeynx3r-AsHQmtO-FdIOesknrA&cup2hreq=8aa7195642a2f1e7c05921263517741855c39ec672d75633d4214dcf86bd874c ...
+[Network Analyzer (1950: 9ac)]   (Sid: 19) Server -> Client : 1 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1950: 9ac)]   (Sid: 19) Server -> Client : 1 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1950: 9ac)]   (Sid: 19) Server -> Client : 1 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1950: 9ac)]   (Sid: 19) Server -> Client : 1 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1950: 9ac)]   (Sid: 19) Server -> Client : 1 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1950: 9ac)]   (Sid: 19) Server -> Client : 3 bytes (SSL) (Service=HTTP)
+[Proxy Recording  (1950:22c4)] Received response from https://update.googleapis.com/service/update2/json?cup2key=14:R1yThCCJ87R9gRRUYFeynx3r-AsHQmtO-FdIOesknrA&cup2hreq=8aa7195642a2f1e7c05921263517741855c39ec672d75633d4214dcf86bd874c
+[Proxy Recording  (1950:22c4)] Sent response to client @ 192.168.0.107:53137
+[Web Request      (1950: a90)] "POST https://update.googleapis.com/service/update2/json?cup2key=14:R1yThCCJ87R9gRRUYFeynx3r-AsHQmtO-FdIOesknrA&cup2hreq=8aa7195642a2f1e7c05921263517741855c39ec672d75633d4214dcf86bd874c"
+[Network Analyzer (1950: a90)]   (Sid: 20) Client -> Server @ : 1339 bytes (SSL)(Service=HTTP)
+[Network Analyzer (1950: a90)]   (Sid: 20) Client -> Server @ : 8543 bytes (SSL)(Service=HTTP)
+[Network Analyzer (1950: a90)]   (Sid: 20) Server -> Client : 1117 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1950: a90)]   (Sid: 20) Server -> Client : 1 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1950: a90)]   (Sid: 20) Server -> Client : 1 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1950: a90)]   (Sid: 20) Server -> Client : 1 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1950: a90)]   (Sid: 20) Server -> Client : 1 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1950: a90)]   (Sid: 20) Server -> Client : 1 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1950: a90)]   (Sid: 20) Server -> Client : 1 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1950: a90)]   (Sid: 20) Server -> Client : 932 bytes (SSL) (Service=HTTP)
+[Proxy Recording  (1950:2100)] Client request from @ 192.168.0.107:53139
+[Proxy Recording  (1950: c08)] Trying to connect to https://clientservices.googleapis.com:443/uma/v2 ...
+[Proxy Recording  (1950: c08)] Trying to connect to https://clientservices.googleapis.com:443/uma/v2 ...
+[Proxy Recording  (1950: c08)] Received response from https://clientservices.googleapis.com/uma/v2
+[Proxy Recording  (1950: c08)] Sent response to client @ 192.168.0.107:53139
+[Web Request      (1950: c08)] "POST https://clientservices.googleapis.com/uma/v2"
+[Network Analyzer (1950: c08)]   (Sid: 21) Client -> Server @ : 604 bytes (SSL)(Service=HTTP)
+[Network Analyzer (1950: c08)]   (Sid: 21) Client -> Server @ : 60641 bytes (SSL)(Service=HTTP)
+[Network Analyzer (1950: c08)]   (Sid: 21) Server -> Client : 288 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1950: c08)]   (Sid: 21) Server -> Client : 1 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1950: c08)]   (Sid: 21) Server -> Client : 1 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1950: c08)]   (Sid: 21) Server -> Client : 1 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1950: c08)]   (Sid: 21) Server -> Client : 1 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1950: c08)]   (Sid: 21) Server -> Client : 1 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1950: c08)]   (Sid: 21) Server -> Client : 1 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1950: c08)]   (Sid: 21) Server -> Client : 1 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1950: c08)]   (Sid: 21) Server -> Client : 15 bytes (SSL) (Service=HTTP)
+[Proxy Recording  (1950:2100)] Client request from @ 192.168.0.107:53147
+[Proxy Recording.Error (1950: 9ac)] Exception is caught while connecting to , message=The output char buffer is too small to contain the decoded characters, encoding 'Unicode (UTF-8)' fallback 'System.Text.DecoderReplacementFallback'.
+Parameter name: chars
+[Proxy Recording  (1950:2100)] Client request from @ 192.168.0.107:53148
+[Proxy Recording  (1950: c08)] Trying to connect to https://clientservices.googleapis.com:443/uma/v2 ...
+[Proxy Recording  (1950: c08)] Trying to connect to https://clientservices.googleapis.com:443/uma/v2 ...
+[Proxy Recording  (1950: c08)] Received response from https://clientservices.googleapis.com/uma/v2
+[Proxy Recording  (1950: c08)] Sent response to client @ 192.168.0.107:53148
+[Web Request      (1950: c08)] "POST https://clientservices.googleapis.com/uma/v2"
+[Network Analyzer (1950: c08)]   (Sid: 22) Client -> Server @ : 603 bytes (SSL)(Service=HTTP)
+[Network Analyzer (1950: c08)]   (Sid: 22) Client -> Server @ : 9677 bytes (SSL)(Service=HTTP)
+[Network Analyzer (1950: c08)]   (Sid: 22) Server -> Client : 288 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1950: c08)]   (Sid: 22) Server -> Client : 1 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1950: c08)]   (Sid: 22) Server -> Client : 1 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1950: c08)]   (Sid: 22) Server -> Client : 1 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1950: c08)]   (Sid: 22) Server -> Client : 1 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1950: c08)]   (Sid: 22) Server -> Client : 1 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1950: c08)]   (Sid: 22) Server -> Client : 1 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1950: c08)]   (Sid: 22) Server -> Client : 1 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1950: c08)]   (Sid: 22) Server -> Client : 15 bytes (SSL) (Service=HTTP)

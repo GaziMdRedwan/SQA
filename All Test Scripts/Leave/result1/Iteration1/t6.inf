@@ -1,0 +1,16 @@
+[t6]
+SnapshotXmlFile=snapshot_6.xml
+ContentType=application/xml
+StepName=Url: crx
+Total=2
+FileName1=t6.xml
+FileName2=t1_1_posts.json
+RequestHeaderFile=t6_RequestHeader.txt
+SaveSnapshotResources=1
+ResponseHeaderFile=t6_ResponseHeader.txt
+RawStepEndTime=1715081645175
+RawStepName=crx
+RequestBodyFile=t6_RequestBody.txt
+RawStepStartTime=1715081644713
+URL1=https://clients2.google.com/service/update2/crx?os=win&arch=x64&os_arch=x86_64&nacl_arch=x86-64&prod=chromecrx&prodchannel=beta&prodversion=125.0.6422.26&lang=en-US&acceptformat=crx3,puff&x=id=aieoplapobidheellikiicjfpamacpfd&v=0.0.0.0&installedby=internal&uc&x=id=gfenjblodoldnbiddmggcbkcapiolbig&v=0.0.0.0&installedby=internal&uc&ping=r%3D14%26e%3D1&x=id=hflefjhkfeiaignkclmphmokmmbhbhik&v=0.0.0.0&installedby=internal&uc&ping=r%3D14%26e%3D1
+URL2=https://darkreader.org/blog/posts.json

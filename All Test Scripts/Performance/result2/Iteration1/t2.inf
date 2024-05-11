@@ -1,0 +1,16 @@
+[t2]
+SnapshotXmlFile=snapshot_2.xml
+ContentType=text/html
+StepName=Custom Request: collect
+Total=2
+FileName1=t2.html
+FileName2=t2_1_posts.json
+RequestHeaderFile=t2_RequestHeader.txt
+SaveSnapshotResources=1
+ResponseHeaderFile=t2_ResponseHeader.txt
+RawStepEndTime=1715082263957
+RawStepName=collect
+RequestBodyFile=t2_RequestBody.txt
+RawStepStartTime=1715082263481
+URL1=https://www.google-analytics.com/j/collect?v=1&_v=j101&a=1404183624&t=pageview&_s=1&dl=chrome-extension://llbdoljkknpjgfcnbnoiehjcgancpjmd/_generated_background_page.html&dp=/background&ul=en-us&de=UTF-8&sd=24-bit&sr=1536x864&vp=&je=0&_u=QACAAEABAAAAACAEI~&jid=795540259&gjid=1670636606&cid=830389759.1694837545&tid=UA-169009641-3&_gid=1307316543.1704256953&_r=1&_slc=1&z=645597186
+URL2=https://darkreader.org/blog/posts.json

@@ -1,0 +1,11 @@
+HTTP/2.0 400
+Status: 400
+content-type: text/html; charset=UTF-8
+date: Tue, 07 May 2024 11:44:05 GMT
+server: scaffolding on HTTPServer2
+cache-control: private
+content-length: 1555
+x-xss-protection: 0
+x-frame-options: SAMEORIGIN
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+

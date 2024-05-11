@@ -1,0 +1,11 @@
+GET https://clientservices.googleapis.com/chrome-variations/seed?osname=win&channel=dev&milestone=126 HTTP/1.1
+If-None-Match: SMChYyMDI0MDQyNi0xNDAxNTEuMjA0MDAwEggIABABGH4gAA==#f3LC67WezfI=
+A-IM: x-bm,gzip
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: empty
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
+Accept-Encoding: gzip, deflate, zstd
+Host: clientservices.googleapis.com
+Connection: Keep-Alive
+

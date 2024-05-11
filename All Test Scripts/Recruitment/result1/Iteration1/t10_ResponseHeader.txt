@@ -1,0 +1,18 @@
+HTTP/2.0 400
+Status: 400
+content-type: application/vnd.google.octet-stream-compressible
+cache-control: no-cache, no-store, max-age=0, must-revalidate
+pragma: no-cache
+expires: Mon, 01 Jan 1990 00:00:00 GMT
+date: Tue, 07 May 2024 11:37:48 GMT
+content-disposition: attachment; filename="response"
+content-encoding: gzip
+server: ESF
+x-xss-protection: 0
+x-frame-options: SAMEORIGIN
+x-content-type-options: nosniff
+set-cookie: SIDCC=EXPIRED; expires=Mon, 01-Jan-1990 00:00:00 GMT; path=/; domain=.google.com; priority=high
+set-cookie: __Secure-1PSIDCC=EXPIRED; expires=Mon, 01-Jan-1990 00:00:00 GMT; path=/; domain=.google.com; Secure; HttpOnly; priority=high
+set-cookie: __Secure-3PSIDCC=EXPIRED; expires=Mon, 01-Jan-1990 00:00:00 GMT; path=/; domain=.google.com; Secure; HttpOnly; priority=high; SameSite=none
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+

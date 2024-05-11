@@ -1,0 +1,15 @@
+[hosts]
+darkreader.org=
+ssl.gstatic.com=
+www.google-analytics.com=
+www.googleapis.com=
+clients2.google.com=
+update.googleapis.com=
+accounts.google.com=
+optimizationguide-pa.googleapis.com=
+stats.g.doubleclick.net=
+clientservices.googleapis.com=
+www.googletagmanager.com=
+oauthaccountmanager.googleapis.com=
+clients4.google.com=
+content-autofill.googleapis.com=

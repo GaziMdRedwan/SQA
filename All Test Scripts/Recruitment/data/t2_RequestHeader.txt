@@ -1,0 +1,17 @@
+GET https://ssl.gstatic.com/docs/common/netcheck.gif?zx=z10qh145mhwd HTTP/1.1
+sec-ch-ua: "Google Chrome";v="125", "Chromium";v="125", "Not.A/Brand";v="24"
+DNT: 1
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+sec-ch-ua-platform: "Windows"
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+X-Client-Data: CJS2yQEIpbbJAQiqncoBCK3lygEIlaHLAQi5yM0BCND0zQEI/fTNAQi+gM4BCP+GzgEI5Y3OARior80B
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: https://docs.google.com/
+Accept-Encoding: gzip, deflate, zstd
+Accept-Language: en-US,en;q=0.9,bn;q=0.8
+Host: ssl.gstatic.com
+Connection: Keep-Alive
+

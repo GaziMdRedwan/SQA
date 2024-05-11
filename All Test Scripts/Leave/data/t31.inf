@@ -1,0 +1,11 @@
+[t31]
+FileName1=t31.html
+URL1=https://clients4.google.com/chrome-sync/command/?client=Google+Chrome&client_id=GWs9AqL0LfltgSszeu153Q%3D%3D
+Total=1
+RequestHeaderFile=t31_RequestHeader.txt
+RequestBodyFile=t31_RequestBody.txt
+ResponseHeaderFile=t31_ResponseHeader.txt
+ContentType=application/vnd.google.octet-stream-compressible
+SnapshotXmlFile=snapshot_31.xml
+[ProtocolInfo]
+ProtocolId=QTWeb

@@ -1,0 +1,8 @@
+[t11]
+FileName1=t11_seed.html
+URL1=https://clientservices.googleapis.com/chrome-variations/seed?osname=win&channel=beta&milestone=125
+Total=2
+ContentType=application/javascript
+SnapshotXmlFile=snapshot_11.xml
+FileName2=t11_js.html
+URL2=https://www.googletagmanager.com/gtag/js?id=G-D3DXCWV39Y&cx=c&_slc=1

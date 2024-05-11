@@ -1,0 +1,14 @@
+[
+    {
+        "actionName": "vuser_end",
+        "steps": [
+            {
+                "stepId": "STEP8",
+                "stepName": "Custom Request: json_2",
+                "infFile": "t11.inf",
+                "time": 1715081646410
+            }
+        ],
+        "transactions": []
+    }
+]

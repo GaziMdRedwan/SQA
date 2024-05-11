@@ -1,0 +1,17 @@
+HTTP/2.0 200
+Status: 200
+content-type: application/x-protobuf
+content-disposition: attachment
+vary: Origin
+vary: X-Origin
+vary: Referer
+content-encoding: gzip
+date: Tue, 07 May 2024 11:37:46 GMT
+server: ESF
+cache-control: private
+content-length: 938
+x-xss-protection: 0
+x-frame-options: SAMEORIGIN
+x-content-type-options: nosniff
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
